@@ -1,0 +1,6 @@
+occ.peripheral.registerPassthrough("basic_energy_cube", "Basic Energy Cube")
+occ.peripheral.registerPassthrough("advanced_energy_cube", "Advanced Energy Cube")
+occ.peripheral.registerPassthrough("elite_energy_cube", "Elite Energy Cube")
+occ.peripheral.registerPassthrough("ultimate_energy_cube", "Ultimate Energy Cube")
+occ.peripheral.registerPassthrough("induction_matrix", "Induction Matrix")
+occ.peripheral.registerPassthrough("digital_miner", "Induction Matrix")

@@ -1,0 +1,6 @@
+occ.peripheral.registerPassthrough("ticket_machine")
+occ.peripheral.registerPassthrough("radar")
+occ.peripheral.registerPassthrough("iron_noteblock")
+occ.peripheral.registerPassthrough("colorful_lamp")
+occ.peripheral.registerPassthrough("chat_box")
+occ.peripheral.registerPassthrough("camera")
